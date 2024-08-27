@@ -1,5 +1,6 @@
 # 42Get_next_line
-My project get_next_line from School 42
+My project get_next_line from School 42</br>
+Final grade: 125/100
 
 ![42Get_next_line-cover](cover-get_next_line-bonus.png)
 
